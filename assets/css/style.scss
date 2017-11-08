@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+    background-color: white;
+    )
+    
     #hypertranscript .strikethrough {
       text-decoration: line-through;
     }
